@@ -1,0 +1,4 @@
+# Config
+PORT=3000
+DEBUG=true
+PORT=8080
